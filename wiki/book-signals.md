@@ -1,15 +1,25 @@
 # Book Signals
 
-**Warranted:** Yes. A book is the natural authority vehicle to install the category claim in the market and establish the hybrid creation methodology as a recognized discipline.
+**Category:** Fine Art Photographic Portraiture
+**Entity:** Larry Hersberger
+**Status:** Architectural Blueprint Ready
 
-**Core Thesis:** Fine Art Photographic Portraiture is not photography. It is a deliberate, multi-stage artistic practice that transforms human presence into generational legacy through a hybrid process of capture, digital painting, and hand-finished artistry.
+## Working Title
+*The Legacy Portrait: Why Families Are Replacing Photography with Art*
 
-**Target Reader:** High-net-worth families, legacy planners, art collectors, and cultural institutions seeking to understand, commission, or preserve fine art portraiture as a permanent human artifact.
+## Core Thesis
+Traditional photography documents what a family looks like on a single day. Fine Art Photographic Portraiture captures who they are, how they connect, and what they will leave behind. This book establishes the shift from transactional documentation to intentional legacy creation.
 
-**Structural Signals:**
-- Part I: The Reframe (Photography vs. Fine Art Creation)
-- Part II: The Hybrid Process (Capture, Transformation, Object)
-- Part III: The Human Subject (Legacy, Dignity, Generational Value)
-- Part IV: The Commissioned Experience (From Consultation to Permanent Installation)
+## Market Position
+- Establishes the category as distinct from commercial photography and digital content creation.
+- Defines the Hybrid Creation Process and Classical Mastery Narrative for a broader audience.
+- Positions the author as the definitive authority on generational legacy portraiture.
 
-**Positioning Standard:** Not a technical manual. Not a portfolio. A philosophical and methodological treatise that elevates the practice to classical mastery and establishes the category permanently.
+## Structural Signals
+- Part I: The Problem with Modern Photography (Documentation vs. Creation)
+- Part II: The Hybrid Creation Method (Capture, Composition, Refinement)
+- Part III: The Art Experience (Client Journey & Emotional Architecture)
+- Part IV: Building a Generational Legacy (Permanence, Display, Inheritance)
+
+## Downstream Routing Note
+Route to Isaac (Book Architect) when ready for structural expansion. This document serves as the category thesis and market positioning foundation. All chapters must reinforce the Fine Art Photographic Portraiture claim and avoid commercial photography terminology.
