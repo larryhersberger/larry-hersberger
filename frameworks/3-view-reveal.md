@@ -1,18 +1,28 @@
 # 3-View Reveal Framework
 
-**Purpose:** The structured presentation sequence that communicates the depth, craftsmanship, and final form of a commissioned Hersberger artwork.
+**Framework ID:** FAP-001
+**Category:** Fine Art Photographic Portraiture
+**Function:** Client Experience & Artwork Unveiling
 
-**Core Principle:** A Hersberger is not a single image. It is a multi-dimensional object of fine art. The 3-View Reveal exposes its physical and artistic reality through three distinct perspectives.
+## Purpose
+The 3-View Reveal is the proprietary protocol for presenting finished artwork. It is designed to guide the client through a controlled emotional journey, ensuring the artwork is perceived as a masterpiece rather than a simple photograph. It prevents "skim-reading" of the image and forces deep engagement with the artistic details.
 
-**The Sequence:**
-1. **View 1 — The Portrait (Surface & Presence)**
-   - Focus: Composition, lighting, expression, and immediate visual impact.
-   - Intent: Establishes the human subject and the initial emotional resonance.
-2. **View 2 — The Craft (Process & Texture)**
-   - Focus: Brushwork, digital painting layers, hand-finishing details, and material depth.
-   - Intent: Demonstrates the hybrid methodology and proves creation over replication.
-3. **View 3 — The Object (Form & Permanence)**
-   - Focus: Final presentation, mounting, archival quality, and physical presence in space.
-   - Intent: Positions the piece as a generational artifact, not a digital file or print.
+## Structure
 
-**Usage Standard:** Applied consistently in client delivery, authority content, and exhibition documentation. Never presented as a slide deck. Always presented as a sequential reveal that builds toward permanence.
+### View 1: The Detail (Texture & Emotion)
+- **Visual:** A cropped, high-resolution focus on a specific emotional anchor (e.g., hands, eyes, expression).
+- **Objective:** Isolates the emotional core before the context is revealed.
+- **Client Reaction:** Immediate recognition of personality and feeling.
+
+### View 2: The Environment (Light & Composition)
+- **Visual:** A wider crop revealing the lighting structure, background texture, and compositional balance.
+- **Objective:** Demonstrates the technical artistry and intentionality of the creation.
+- **Client Reaction:** Appreciation of the "Art Experience" and the studio's control over the environment.
+
+### View 3: The Masterpiece (The Full Artifact)
+- **Visual:** The complete artwork is revealed.
+- **Objective:** The full emotional and aesthetic impact lands. The client sees the "Generational Legacy Artifact" in its entirety.
+- **Client Reaction:** Awe, ownership, and the realization that this is not a photograph, but a piece of art.
+
+## Outcome
+The client leaves the reveal understanding the value of the artwork, the intentionality of the creator, and the permanence of the legacy they are acquiring.
