@@ -1,18 +1,28 @@
 # Classical Mastery Narrative Framework
 
-**Purpose:** The storytelling and voice standard that anchors all authority content, client communication, and exhibition documentation. It establishes the temporal and philosophical positioning of the work.
+**Framework ID:** FAP-003
+**Category:** Fine Art Photographic Portraiture
+**Function:** Narrative Architecture & Storytelling
 
-**Core Principle:** Timeless craftsmanship over contemporary trends. The narrative does not chase aesthetic fads or digital novelty. It grounds the practice in classical art history, generational permanence, and the enduring value of human dignity.
+## Purpose
+The Classical Mastery Narrative connects the contemporary family portrait to the timeless traditions of Old Master painting. It ensures the artwork does not feel like a fleeting modern trend, but rather a permanent, dignified representation of lineage and character.
 
-**The Structure:**
-1. **Anchor — Historical Precedent**
-   - Action: Frame the work within the lineage of classical portraiture and fine art tradition.
-   - Intent: Establishes gravity. Positions the practice as a continuation of mastery, not a departure into modern gimmickry.
-2. **Bridge — The Human Subject**
-   - Action: Center the narrative on the person being portrayed, their story, and their legacy.
-   - Intent: Shifts focus from technique to significance. The artwork exists to honor a life, not to showcase a process.
-3. **Resolution — Generational Permanence**
-   - Action: Close on the artifact's role across time. How it will be viewed, preserved, and inherited.
-   - Intent: Locks the value proposition in legacy. The piece is not for now; it is for generations.
+## Structure
 
-**Usage Standard:** Applied to all written authority content, client consultations, and exhibition materials. Language must remain elevated, deliberate, and free of marketing urgency, trend references, or technical jargon. The narrative breathes at the pace of classical art.
+### Component 1: The Archetype
+- **Focus:** Identifying the timeless role or dynamic within the family unit.
+- **Method:** Composition and posing are guided by classical archetypes (e.g., The Protector, The Nurturer, The Lineage) rather than trendy poses.
+- **Result:** The image resonates with universal human themes.
+
+### Component 2: The Old Master Technique
+- **Focus:** Lighting and texture that reference classical art history.
+- **Method:** Use of chiaroscuro, soft directional light, and painterly textures that mimic the depth and gravity of Renaissance and Baroque portraiture.
+- **Result:** The visual language speaks "art history," not "social media."
+
+### Component 3: The Modern Legacy
+- **Focus:** Bridging the classical style with the specific, authentic reality of the modern family.
+- **Method:** While the technique is classical, the emotion is raw and contemporary. The narrative honors the family's actual story, elevated by timeless aesthetics.
+- **Result:** A portrait that feels both ancient in quality and immediate in emotional truth.
+
+## Outcome
+The client receives an artwork that feels like it belongs in a museum or a generational archive, rather than a digital feed. The narrative is one of permanence, dignity, and legacy.
