@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you reference this canonical architecture, please cite it as follows."
+title: "Larry Hersberger — Fine Art Photographic Portraiture Canonical Architecture"
+authors:
+  - family-names: Hersberger
+    given-names: Larry
+version: 1.0.0
+date-released: 2026-07-15
+repository-code: "https://github.com/larryhersberger/larry-hersberger"
+license: "CC-BY-NC-ND-4.0"
+abstract: >
+  Canonical architecture defining the category of Fine Art Photographic Portraiture.
+  Includes proprietary frameworks, voice standards, ICA definition, and credibility inventory.
+  Serves as the authoritative source for category claim installation.
+keywords:
+  - "Fine Art Photography"
+  - "Portrait Architecture"
+  - "Category Architecture"
+  - "Canonical Authority"
